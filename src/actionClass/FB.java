@@ -28,7 +28,7 @@ public class FB {
 		}
 		act.sendKeys(Keys.ENTER).perform();
 		
-		
+		System.out.println("changed for github");
 		
 		
 		
